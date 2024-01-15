@@ -83,7 +83,7 @@ def action():
 
 
         #todo: for sending emails
-        emailids = [["Saurabh", "bhattsourav23@gmail.com"],["rohit", "tiwarirohit1234321@gmail.com"],["Saurav", "bhattsourav23@gmail.com"], ["rishabh kukreti", "kukretirishabh07@gmail.com"], ["Aastha", "bishtastha2001@gmail.com"]]
+        emailids = [["Saurabh", "@gmail.com"],["rohit", "@gmail.com"],["Saurav", "@gmail.com"], ["rishabh", "@gmail.com"], ["Aastha", "@gmail.com"]]
 
         if "send a mail to" in query:
             for name in emailids:
